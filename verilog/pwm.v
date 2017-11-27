@@ -20,7 +20,6 @@ module pwm(out,clk,duty,enable);
 
    initial begin
       ticks = 0; 
-      edge_tick = duty * pwm_period_ticks / ((1 << DUTY_RES_BITS)-1); 
    end
 
    always @(posedge clk) begin
