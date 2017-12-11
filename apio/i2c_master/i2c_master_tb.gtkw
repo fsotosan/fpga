@@ -1,0 +1,18 @@
+[*]
+[*] GTKWave Analyzer v3.3.86 (w)1999-2017 BSI
+[*] Thu Dec  7 16:53:50 2017
+[*]
+[dumpfile] "/home/nando/eda/fpga/apio/i2c_master/i2c_master_tb.vcd"
+[dumpfile_mtime] "Thu Dec  7 16:53:06 2017"
+[dumpfile_size] 13229
+[savefile] "/home/nando/eda/fpga/apio/i2c_master/i2c_master_tb.gtkw"
+[timestart] 0
+[size] 2495 1311
+[pos] -886 -1
+*-5.959202 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 225
+[signals_width] 78
+[sst_expanded] 1
+[sst_vpaned_height] 410
+[pattern_trace] 1
+[pattern_trace] 0
